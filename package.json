@@ -1,5 +1,5 @@
 {
-  "name": "todo-list-webpack",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -21,6 +21,6 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+
   }
 }
